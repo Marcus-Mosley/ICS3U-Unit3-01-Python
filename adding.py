@@ -6,7 +6,7 @@
 
 
 def main():
-    # This function calculates total from subtotal and tax
+    # This function adds two user inputted integers
 
     # Input
     variable_x = float(input("Enter the first integer to be added: "))
